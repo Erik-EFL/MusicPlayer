@@ -1,23 +1,18 @@
 .login {
-    position: absolute;
-    width: 697px;
-    height: 314px;
-    left: 372px;
-    top: 431px;
-
-    background: #FFFFFF;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 10px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 1px 4px 4px rgba(0, 0, 0, 0.25);
+  height: 314px;
+  left: 372px;
+  position: absolute;
+  top: 431px;
+  width: 697px;
 }
 
 img {
-    position: absolute;
-    width: 208px;
-    height: 158px;
-    left: 604px;
-    top: 169px;
-}
-
-#login {
-
+  height: 158px;
+  left: 604px;
+  position: absolute;
+  top: 169px;
+  width: 208px;
 }
